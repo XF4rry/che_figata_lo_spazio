@@ -5,7 +5,7 @@ Io e Marcello abbiamo cercato di tenere tutto molto compatto, semplice e con un 
 
 E questo è tutto, l’interfaccia è semplice a tema spazio, abbiamo usato 3 api ed è suddiviso in pagine ognuna riprendibile dalle altre tramite il comodo header presente sulla parte superiore della pagina. 
 
-P.S. è  presente anche una pagina "/contact” ma non è nulla di speciale: prende in input dal client dei dati: quali email, nome utente e un messaggio; e li riporta in console (Si, tipo il “/signin”).
+P.S. è  presente anche una pagina "/contact” ma non è nulla di speciale: prende in input dal client dei dati: quali email, nome utente e un messaggio; e li riporta in console.
 
 Pastori Christian & Belli Marcello
 
